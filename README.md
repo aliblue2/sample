@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project "Cryptex" is a website created using React.js, designed as an exchange platform for displaying cryptocurrency information. It utilizes the CoinMarketCap API for data and integrates the Tailwind CSS framework for the user interface. The website can be accessed at the following link: Cryptex.
+live demo :https://aliblue2.github.io/sample/
