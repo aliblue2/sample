@@ -8,7 +8,7 @@ export default function TrendingCoins() {
   const baseUrl =
     "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest";
   const qs = "?start=1&limit=8&convert=USD";
-  const ApiKey = "cbe68da5-9559-4a8b-8f7d-560989f4471a";
+  const ApiKey = "190e2e39-f818-4e94-9718-42760934cd99";
   const proxyServer = "https://corsproxy.io/?";
   const ImageUrl = "https://s2.coinmarketcap.com/static/img/coins/64x64/";
   useEffect(() => {
